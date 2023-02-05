@@ -69,3 +69,4 @@ for repo in repo_dicts:
     print(f"Stars: {repo['stargazers_count']}")
     print(f"Repository: {repo['html_url']}")
     print(f"Description: {repo['description']}")
+
